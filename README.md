@@ -1,4 +1,5 @@
-# Hello-World
-Setting up the git for the first time
+# Coding Gym
+This repository contains my collection of various coding challenges. Such as:
 
-Hello my dear fellow Earthlings.
+1. [Project Euler](project-euler)
+
